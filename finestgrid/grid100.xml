@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Surašymo apskaitos data 2021 m. sausio 1 d.&amp;nbsp;Pirmą kartą atliktas vien administracinių duomenų pagrindu, naudojant:&amp;nbsp;13 registrų,&amp;nbsp;&amp;nbsp;5 informacinių sistemų,&amp;nbsp;&amp;nbsp;24 įstaigų teikiančių nakvynės paslaugas (nakvynės namų)Duomenys pateikti gardelėse 100 m x 100 m&amp;nbsp;Konfidencialumo taisyklė:Gyventojų skaičiaus rodikliui (POP), teikiamas absoliutus gyventojų skaičius esant 4 ir daugiau asmenų gardelėje (jei asmenų yra mažiau nei 4, teikiama reikšmė "3"). Visiems kitiems pateiktiems rodikliams galioja 10 asmenų taisyklė (t.y. jei asmenų tam tikro rodiklio gardelėje yra mažiau nei 10, pateikiama reikšmė „9“).Koordinačių sistema:&amp;nbsp;LKS-94.&amp;nbsp;Laukų aprašymas:GRID_ID&amp;nbsp;- unikalus gardelės identifikavimo kodasGYV_ID&amp;nbsp;- miesto kodasGYV_PAV&amp;nbsp;- miesto pavadinimasPOP&amp;nbsp;- gyventojų skaičiusMALE&amp;nbsp;- vyrų skaičiusFEMALE&amp;nbsp;- moterų skaičiusall_00_14&amp;nbsp;- gyventojų skaičius 0-14 metų amžiaus grupėjeall_15_64&amp;nbsp;- gyventojų skaičius 15-64 metų amžiaus grupėjeall_65_plius&amp;nbsp;- gyventojų skaičius 65metų ir vyresnių amžiaus grupėjemales_00_14&amp;nbsp;- vyrų skaičius 0-14 metų amžiaus grupėjemales_15_64&amp;nbsp;- vyrų skaičius 15-64 metų amžiaus grupėjemales_65_plius&amp;nbsp;-vyrų skaičius 65metų ir vyresnių amžiaus grupėje&amp;nbsp;females_00_14&amp;nbsp;- moterų skaičius 0-14 metų amžiaus grupėjefemales_15_64&amp;nbsp;- moterų skaičius 15-64 metų amžiaus grupėjefemales_65_plius&amp;nbsp;- moterų skaičius 65metų ir vyresnių amžiaus grupėjeMEAN_AGE&amp;nbsp;- vidutinis gyventojų amžius gardelėjeEDUC_H_all&amp;nbsp;-&amp;nbsp;10 metų ir vyresni gyventojai, turintys aukštąjį išsilavinimąEDUC_PS_all&amp;nbsp;-10 metų ir vyresni gyventojai, turintys aukštesnįjį išsilavinimąEDUC_S_all&amp;nbsp;-&amp;nbsp;10 metų ir vyresni gyventojai, turintys vidurinį išsilavinimąEDUC_B_all&amp;nbsp;-&amp;nbsp;10 metų ir vyresni gyventojai, turintys pagrindinį išsilavinimąEDUC_P_all&amp;nbsp;-&amp;nbsp;10 metų ir vyresni gyventojai, turintys pradinį išsilavinimąEDUC_UP_all&amp;nbsp;-&amp;nbsp;10 metų ir vyresni gyventojai, neturintys pradinio išsilavinimą15 metų ir vyresni dirbantys gyventojaiPRF_managers&amp;nbsp;-&amp;nbsp;vadovaiPRF_professionals&amp;nbsp;-&amp;nbsp;specialistaiPRF_TAprofessionals&amp;nbsp;-&amp;nbsp;technikai ir jaunesnieji specialistaiPRF_clerics&amp;nbsp;-&amp;nbsp;tarnautojaiPRF_service&amp;nbsp;-&amp;nbsp;paslaugų sektoriaus darbuotojai ir pardavėjaiPRF_agriculture&amp;nbsp;-&amp;nbsp;kvalifikuoti žemės, miškų ir žuvininkystės ūkio darbuotojaiPRF_craft&amp;nbsp;-&amp;nbsp;kvalifikuoti darbininkai ir amatininkaiPRF_operators&amp;nbsp;-&amp;nbsp;įrenginių ir mašinų operatoriai ir surinkėjaiPRF_elementary&amp;nbsp;-&amp;nbsp;nekvalifikuoti darbininkaiPRF_armed&amp;nbsp;-&amp;nbsp;ginkluoti pajėgų profesijosACT_employees&amp;nbsp;-&amp;nbsp;dirbantis asmuoACT_unemployed-&amp;nbsp;bedarbisACT_pension-&amp;nbsp;pensijos ar kapitalo pajamų gavėjasACT_student-&amp;nbsp;studentas, moksleivisACT_other-&amp;nbsp;kitas, nepriklauso darbo jėgaiOCP_blank-&amp;nbsp;savarankiškai dirbantis asmuoOCP_empoyer-&amp;nbsp;darbdavysOCP_other-&amp;nbsp;kitas užimtas gyventojasOCP_employees-&amp;nbsp;samdomas</abstract>
+            <purpose>Gyventojų ir būstų surašymas 2021. Gyventojų skaičius gardelės 100 m x 100 m. Duomenys dengia visų Lietuvos miestų teritorijas.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>grid</themekey>
+                <themekey>census</themekey>
+                <themekey>census2021</themekey>
+                <themekey>surašymas</themekey>
+                <themekey>surašymas2021</themekey>
+                <themekey>population</themekey>
+                <themekey>inhabitants</themekey>
+                <themekey>statistics</themekey>
+                <themekey>statistika</themekey>
+            </theme>
+        </keywords>
+        <accconst>Kiti apribojimai</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+        <datacred>Lietuvos statistikos departamentas</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20230529</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
