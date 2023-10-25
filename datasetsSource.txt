@@ -1,0 +1,2 @@
+Economic : https://open-data-ls-osp-sdg.hub.arcgis.com/datasets/9d7563a93d3b4f26a104d2aa9b4d285a_0/explore?location=54.903318%2C23.944238%2C12.81
+Population : https://open-data-ls-osp-sdg.hub.arcgis.com/datasets/a5df434c024e4bde8472c5ffcb781fa8_0/explore?location=54.895315%2C23.961156%2C14.98
