@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>Veikiančių ūkio subjektų geoerdviniai duomenys 2021 m. (500x500 m gardelės)</title>
+                <onlink>https://osp-sdg.stat.gov.lt/arcgis/rest/services/Hosted/VUS_2021_GRID_500/FeatureServer</onlink>
+                <onlink>https://osp-sdg.stat.gov.lt/portal/sharing/rest/content/items/82b8526b64964cbeb428aae7e660ef74/data</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Veikiančių ūkio subjektų geoerdviniai duomenys 2021 m. Duomenys pateikiami 500x500 m gardelėmis. Veikiantis ūkio subjektas – juridinių asmenų registre įregistruotas, vykdantis ekonominę veiklą, turintis darbuotojų ir (ar) pajamų subjektas. Į įregistruotų ir veikiančių ūkio subjektų sąrašą neįtraukiami įmonių filialai (išskyrus užsienio įmonių filialus) ir atstovybės. Veikiančių ūkio subjektų skaičius nu­sta­tomas kartą per metus – sausio 1 d. (sąlyginė data). Ūkio subjektams ekonominės veiklos rūšys priskiriamos pagal Ekonominės veiklos rūšių klasifikatorių (EVRK 1.1 red.), parengtą Statistinio Europos Bendrijos ekonominės veiklos rūšių klasifikatoriaus pagrindu. Nurodoma pagrindinė ūkio subjektų ekonominės veiklos rūšis. Pagrindinė veiklos rūšis yra ta, kuri pagal sukuriamos pridėtinės vertės dalį viršija visų kitų ūkio subjekto vykdomų veiklos rūšių sukuriamą pridėtinę vertę. Daugiau informacijos galima rasti paspaudus nuorodą: Veikiantys ūkio subjektai.</abstract>
+            <purpose>Veikiančių ūkio subjektų geoerdviniai duomenys 2021 m. Duomenys pateikiami 500x500 m gardelėmis.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Veikiantys ūkio subjektai</themekey>
+                <themekey>Statistics Lithuania</themekey>
+                <themekey>GRID500</themekey>
+                <themekey>2021</themekey>
+                <themekey>Valstybės duomenų agentūra</themekey>
+                <themekey>State Data Agency</themekey>
+                <themekey>Active economic entity</themekey>
+                <themekey>VUS2021</themekey>
+            </theme>
+        </keywords>
+        <accconst>Kiti apribojimai</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+    </idinfo>
+    <metainfo>
+        <metd>20220331</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Surašymo apskaitos data 2021 m. sausio 1 d. Pirmą kartą atliktas vien administracinių duomenų pagrindu, naudojant: 13 registrų,  5 informacinių sistemų,  24 įstaigų teikiančių nakvynės paslaugas (nakvynės namų)Duomenys pateikti gardelėse 500 m x 500 m Konfidencialumo taisyklė:Gyventojų skaičiaus rodikliui (POP), teikiamas absoliutus gyventojų skaičius esant 4 ir daugiau asmenų gardelėje (jei asmenų yra mažiau nei 4, teikiama reikšmė &amp;quot;3&amp;quot;). Visiems kitiems pateiktiems rodikliams galioja 10 asmenų taisyklė (t.y. jei asmenų tam tikro rodiklio gardelėje yra mažiau nei 10, pateikiama reikšmė „9“).Koordinačių sistema: LKS-94. Laukų aprašymas:GRID_ID - unikalus gardelės identifikavimo kodasGYV_ID - miesto kodasGYV_PAV - miesto pavadinimasPOP - gyventojų skaičiusMALE - vyrų skaičiusFEMALE - moterų skaičiusall_00_14 - gyventojų skaičius 0-14 metų amžiaus grupėjeall_15_64 - gyventojų skaičius 15-64 metų amžiaus grupėjeall_65_plius - gyventojų skaičius 65metų ir vyresnių amžiaus grupėjemales_00_14 - vyrų skaičius 0-14 metų amžiaus grupėjemales_15_64 - vyrų skaičius 15-64 metų amžiaus grupėjemales_65_plius -vyrų skaičius 65metų ir vyresnių amžiaus grupėje females_00_14 - moterų skaičius 0-14 metų amžiaus grupėjefemales_15_64 - moterų skaičius 15-64 metų amžiaus grupėjefemales_65_plius - moterų skaičius 65metų ir vyresnių amžiaus grupėjeMEAN_AGE - vidutinis gyventojų skaičius gardelėjeEDUC_H_all - 10 metų ir vyresni gyventojai, turintys aukštąjį išsilavinimąEDUC_PS_all -10 metų ir vyresni gyventojai, turintys aukštesnįjį išsilavinimąEDUC_S_all - 10 metų ir vyresni gyventojai, turintys vidurinį išsilavinimąEDUC_B_all - 10 metų ir vyresni gyventojai, turintys pagrindinį išsilavinimąEDUC_P_all - 10 metų ir vyresni gyventojai, turintys pradinį išsilavinimąEDUC_UP_all - 10 metų ir vyresni gyventojai, neturintys pradinio išsilavinimą15 metų ir vyresni dirbantys gyventojaiPRF_managers - vadovaiPRF_professionals - specialistaiPRF_TAprofessionals - technikai ir jaunesnieji specialistaiPRF_clerics - tarnautojaiPRF_service - paslaugų sektoriaus darbuotojai ir pardavėjaiPRF_agriculture - kvalifikuoti žemės, miškų ir žuvininkystės ūkio darbuotojaiPRF_craft - kvalifikuoti darbininkai ir amatininkaiPRF_operators - įrenginių ir mašinų operatoriai ir surinkėjaiPRF_elementary - nekvalifikuoti darbininkaiPRF_armed - ginkluoti pajėgų profesijosACT_employees - dirbantis asmuoACT_unemployed- bedarbisACT_pension- pensijos ar kapitalo pajamų gavėjasACT_student- studentas, moksleivisACT_other- kitas, nepriklauso darbo jėgaiOCP_self- savarankiškai dirbantis asmuoOCP_empoyer- darbdavysOCP_other- kitas užimtas gyventojasOCP_employees- samdomasECNM_A - Žemės ūkis, miškininkystė ir žuvininkystėECNM_BCDE - Pramonė (kasyba ir karjerų eksploatavimas, apdirbamoji gamyba, elektros, dujų, garo tiekimas ir oro kondicionavimas, vandens tiekimas, nuotekų valymas, atliekų tvarkymas ir regeneravimas)ECNM_F - StatybaECNM_G - Didmeninė ir mažmeninė prekyba; variklinių transporto priemonių ir motociklų remontasECNM_H - Transportas ir saugojimasECNM_IJ - Apgyvendinimo ir maitinimo paslaugų veikla; informacija ir ryšiaiECNM_KL - Finansinė ir draudimo veikla, nekilnojamojo turto operacijosECNM_M - Profesinė, mokslinė ir techninė veiklaECNM_N - Administracinė ir aptarnavimo veiklaECNM_O - Viešasis valdymas ir gynyba; privalomasis socialinis draudimasECNM_P - ŠvietimasECNM_Q - Žmonių sveikatos priežiūra ir socialinis darbasECNM_RSTU - Meninė, pramoginė ir poilsio organizavimo veikla; kita aptarnavimo veikla; namų ūkių, samdančių darbininkus, veikla; namų ūkių veikla, susijusi su savoms reikmėms tenkinti skirtų nediferencijuojamų gaminių gamyba ir paslaugų teikimu; ekstrateritorinių organizacijų ir įstaigų veikla</abstract>
+            <purpose>Gyventojų ir būstų surašymas 2021. Gyventojų skaičius gardelės 500 m x 500 m</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>grid</themekey>
+                <themekey>Surašymas</themekey>
+                <themekey>census</themekey>
+                <themekey>surašymas2021</themekey>
+                <themekey>census2021</themekey>
+                <themekey>Gyventojai</themekey>
+                <themekey>population</themekey>
+                <themekey>inhabitants</themekey>
+                <themekey>statistics</themekey>
+                <themekey>statistika</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+        <datacred>Lietuvos statistikos departamentas</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
